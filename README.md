@@ -1,6 +1,6 @@
 A comprehensive project structure that is optimized for scalability, maintainability, and testing, based on the layered architecture approach
 
-
+```
 llm-app/
 ├─ main.py # The main file that defines the FastAPI app and the router hooks
 ├─ cofnig.py # The configuration of llm
@@ -29,7 +29,7 @@ llm-app/
 └─ tests/
     ├─ __init__.py
     ├─ test_llm_app.py
-
+```
 The README.md file is finished. You can see the full text below:
 
 ## LLM Application using MovieLens 25M Dataset and FastAPI
